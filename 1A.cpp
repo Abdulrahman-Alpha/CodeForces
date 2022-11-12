@@ -6,5 +6,4 @@ int main()
     cin>>n>>m>>a;
     b=((n+a-1)/a)*((m+a-1)/a);
     cout<<b;
-    return 0;
 }
